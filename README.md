@@ -1,11 +1,9 @@
  # kalai selvi
 
- i'm a certified React JS,JavaScript,HTML 5 & CSS 3,Principles of UI /UX Design,Figma.
-i also enjoy working on wordpress and Figma.
+LEAN SIX SIGMA GREEN BELT certified professional DATA ANALYST with hand on experience in SQL,POWERBI,AZURE,MICROSOFT FABRIC.
 
 ## Skills & certification :
 
-⚛️ React.
-💻 JavaScript ,HTML 5,CSS 3.
-📑 Bootstrap.
-📊 Figma.
+💻 SQL,JavaScript ,HTML 5,CSS 3.
+📑 Data Analytics
+📊 POWER BI.
