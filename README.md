@@ -1,6 +1,6 @@
  # kalai selvi
 
-LEAN SIX SIGMA GREEN BELT certified professional DATA ANALYST with hand on experience in SQL,POWERBI,AZURE,MICROSOFT FABRIC.
+LEAN SIX SIGMA GREEN BELT certified professional DATA ANALYST with handS on experience in SQL,POWERBI,AZURE,MICROSOFT FABRIC.
 
 ## Skills & certification :
 
