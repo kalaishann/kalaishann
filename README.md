@@ -4,6 +4,10 @@ LEAN SIX SIGMA GREEN BELT certified professional DATA ANALYST with hand on exper
 
 ## Skills & certification :
 
-💻 SQL,JavaScript ,HTML 5,CSS 3.
-📑 Data Analytics
-📊 POWER BI.
+💻 SQL,Python,JavaScript ,HTML 5,CSS 3.
+📑 DAX,POWER QUERY,PANDAS,NUMPY.
+📊 POWER BI,EXCEL.
+
+## CERTIFIED SIX SIGMA GREEN BELT
+## CERTIFIED PEOPLE ANALYTICS
+## CERTIFIED FRONT END DEVELOPMENT
